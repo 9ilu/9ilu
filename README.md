@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likhitha N</h1>
 <h3 align="center">A passionate AIOps from India</h3>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/60/77/99/1000_F_560779904_bebnQMAlXsMGnv6iV9wSvaOTzpJY8v2l.jpg">
+<img align="right" alt="Coding" width="800" src="https://as2.ftcdn.net/v2/jpg/05/60/77/99/1000_F_560779904_bebnQMAlXsMGnv6iV9wSvaOTzpJY8v2l.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9ilu&label=Profile%20views&color=0e75b6&style=flat" alt="9ilu" /> </p>
 
